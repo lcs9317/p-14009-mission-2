@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"wisespeak": "하나둘",
+		"wiseman": "셋넷"
+	},
+	{
+		"id": 2,
+		"wisespeak": "일이삼",
+		"wiseman": "사오륙"
+	},
+	{
+		"id": 3,
+		"wisespeak": "하나",
+		"wiseman": "둘"
+	},
+	{
+		"id": 4,
+		"wisespeak": "일이삼",
+		"wiseman": "사오"
+	},
+	{
+		"id": 5,
+		"wisespeak": "크아악",
+		"wiseman": "살려줘"
+	},
+	{
+		"id": 6,
+		"wisespeak": "일이삼",
+		"wiseman": "사오"
+	}
+]
